@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mosbeh</h1>
 <h3 align="center">A passionate about Machine learning and Data Science from Tunsia.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mosbehbarhoumi&label=Profile%20views&color=0e75b6&style=flat" alt="mosbehbarhoumi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mosbehbarhoumi" alt="mosbehbarhoumi" /></a> </p>
 
-- 🔭 I’m currently working on **Chatbot**
+
+- 🔭 I’m currently working on a research deep learning project **virtual try-on using deep learning**
 
 - 🌱 I’m currently learning **advanced algorithms in machine learning.**
 
