@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mosbeh</h1>
-<h3 align="center">A passionate about Machine learning and Data Science from Tunsia.</h3>
+<h3 align="center">A passionate about Machine learning and Data Science from Tunisia.</h3>
 
 
 
