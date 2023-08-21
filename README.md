@@ -12,5 +12,5 @@
     - [Kaggle](https://www.kaggle.com/mosbehbarhoumi)
 
 - 📄 Know about my experiences: 
-    - Computer Science Engineering student at ENSI - the National School of Computer Science.
+    - Computer Vision Engineer at AVIEDA.
 
