@@ -67,7 +67,7 @@ Welcome to my GitHub profile! I'm a passionate MLOps Engineer with 2+ years of e
 
 ## 🏆 Achievements & Certifications
 
-- **Second Place**, IndabaX Tunisia 2023 Machine Learning Competition
+- Participated in over **50 machine learning contests** on platforms such as Zindi, Antigranular, Trustii.io, Think Onward, CrunchDAO, Solafune, and Kaggle, **achieving top 3 finishes in more than 10 contests**.
 - **Certified Kubernetes Application Developer (CKAD)** - KodeKloud
 - **TensorFlow Developer Certification** - Coursera
 - **Professional Data Scientist and Data Analyst Certification** - Datacamp
